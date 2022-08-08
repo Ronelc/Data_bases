@@ -1,0 +1,770 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass heb-article
+\begin_preamble
+\usepackage{culmus}
+
+% Convert the Lyx colors into more pleasent colors:
+\usepackage{xcolor}
+\definecolor{blue}{RGB}{14,107,217}
+\definecolor{green}{RGB}{0,158,40}
+\definecolor{red}{RGB}{235,16,16}
+\definecolor{brown}{RGB}{164,66,0}
+\definecolor{orange}{RGB}{231,135,26}
+\definecolor{purple}{RGB}{94,53,177}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 2cm
+\rightmargin 1cm
+\bottommargin 3cm
+\headheight 0cm
+\headsep 0cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation 0bp
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "c"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "20pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\paragraph_spacing double
+\align center
+
+\series bold
+\size huge
+)
+\numeric on
+67329
+\numeric off
+( 
+\begin_inset Formula $DB$
+\end_inset
+
+ | תרגיל
+\family roman
+\shape up
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+שם: רונאל חרדים, עומרי טויטו | ת
+\begin_inset Quotes erd
+\end_inset
+
+ז:
+\lang english
+208917641,208432361
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+שמות המחברים השייכים לאונ העברית:
+\series default
+
+\begin_inset Formula 
+\[
+\pi_{name}\left(\sigma_{authors.institution="HebrewUniversityofJerusalem"}authors\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+שמות המחברים ששייכים למוסד אקדמי שנמצא בישראל, ואת שם המוסד בו הם עובדים:
+\begin_inset Formula 
+\[
+\pi_{institution,name}\left(\sigma_{country="il"}authors\bowtie institutions\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\numeric off
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+שמות המחברים ששייכים למוסד אקדמי שנמצא בישראל שקיבלו ציון יחסי של לפחות
+ 2 בכנס כלשהו בתת התחום של 
+\begin_inset Formula $DB$
+\end_inset
+
+ או בתחום של 
+\begin_inset Formula $AI$
+\end_inset
+
+:
+\series default
+
+\begin_inset Formula 
+\[
+\pi_{institution,name}\left(\sigma_{country="il"\land adjustedcount\geq2\land(subarea="db"\lor area="ai")}authors\bowtie institutions\bowtie conferences\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\numeric off
+ 
+\end_layout
+
+\begin_layout Subsection*
+)א(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+שמות המחברים מהאוניברסיטה העברית שפרסמו מאמרים גם בכנס בתת התחום של 
+\begin_inset Formula $vision'$
+\end_inset
+
+ וגם בכנס בתת התחום של 
+\begin_inset Formula $ml$
+\end_inset
+
+:
+\begin_inset Formula 
+\[
+\pi_{name}\left(\sigma_{authors.institution="HebrewUniversityofJerusalem"\land subarea="vision"}authors\bowtie conferences\right)\cap
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\pi_{name}\left(\sigma_{authors.institution="HebrewUniversityofJerusalem"\land subarea="ml"}authors\bowtie conferences\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)ב(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+שמות המחברים מהאוניברסיטה העברית שפרסמו מאמרים גם בכנס בתת התחום של 
+\begin_inset Formula $vision'$
+\end_inset
+
+ וגם בכנס בתת התחום של 
+\begin_inset Formula $ml$
+\end_inset
+
+ באותה השנה: 
+\begin_inset Formula 
+\[
+\pi_{year,name}\left(\sigma_{authors.institution="HebrewUniversityofJerusalem"\land subarea="vision"}authors\bowtie conferences\right)\cap
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\pi_{year,name}\left(\sigma_{authors.institution="HebrewUniversityofJerusalem"\land subarea="ml"}authors\bowtie conferences\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+5
+\numeric off
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+החזר
+\series default
+ 
+\series bold
+את את שמות המחברים שפרסמו אך ורק בתחום 
+\begin_inset Formula $system$
+\end_inset
+
+ וכן אך ורק לפני שנת
+\family roman
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1990
+\numeric off
+:
+\begin_inset Formula 
+\[
+\pi_{name}\left(\sigma_{year\leq1990\land area="system"}authors\bowtie conferences\right)-\pi_{name}\left(\sigma_{year\leq1990\land area\neq"system"}authors\bowtie conferences\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+6
+\numeric off
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+החזר את את שמות המחברים שפרסמו מאמר בכל אחד מהכנסים בתחום של 
+\begin_inset Formula $ai$
+\end_inset
+
+ שבו נועם ניסן פירסם:
+\end_layout
+
+\begin_layout Standard
+ראשית ניצור טבלה שמכילה את כל הכנסים שתחום 
+\begin_inset Formula $ai$
+\end_inset
+
+ שנועם ניסן השתתף בהם:
+\begin_inset Formula 
+\[
+\rho_{noam}\left(\pi_{conference}\left(\sigma_{name="Noam\ Nisan"\land area="ai"}authors\bowtie conferences\right)\right)
+\]
+
+\end_inset
+
+ כעת, נחלק בטבלה נועם: 
+\begin_inset Formula 
+\[
+\pi_{name}\left(\left(\pi_{conference}\left(\sigma_{area="ai"}authors\bowtie conferences\right)\right)\div noam\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape up
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+7
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נמצא את המחבר עם ה 
+\begin_inset Formula $count$
+\end_inset
+
+ הגדול ביותר בין השנים 
+\numeric on
+2000-2020
+\family roman
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+מהעברית בכנס 
+\begin_inset Formula $focs$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+ראשית נבנה טבלה בשם 
+\begin_inset Formula $NEW$
+\end_inset
+
+ שבתוכה יהיו כל החוקרים מהעברית בין השנים
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2000-2020
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+שהשתתפו בכנס 
+\begin_inset Formula $focs$
+\end_inset
+
+:
+\begin_inset Newline newline
+\end_inset
+
+)נא להתייחס לשתי השורות הבאות כשורה אחת, ההפרדה נעשתה עקב חוסר מקום(
+\begin_inset Formula 
+\[
+\rho_{NEW\left(year\ n,name\ n,coun\ n\right)}
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\left(\pi_{year,name,count}\left(\sigma_{institution="HebrewUniversityofJerusalem"\land year\geq2000\land year\leq2020\land conference="focs"}authors\bowtie conferences\right)\right)
+\]
+
+\end_inset
+
+כעת, נגדיר טבלה בשם 
+\begin_inset Formula $resolt$
+\end_inset
+
+ שבתוכה כל החוקרים מהטבלה הקודמת כך שה 
+\begin_inset Formula $count$
+\end_inset
+
+ שלהם אינו מקסימלי.
+ 
+\begin_inset Formula 
+\[
+\rho_{resolt}\left(\pi_{year\ n,name\ n}\left(\sigma_{count1<count2\land year1=year2}\left(\rho_{NEW1(year1,name1,coun1)}(NEW)\times\rho_{NEW2(year2,name2,coun2)}(NEW)\right)\right)\right)
+\]
+
+\end_inset
+
+לבסוף, נחסר את הטבלה 
+\begin_inset Formula $resoult$
+\end_inset
+
+ מהטבלה 
+\begin_inset Formula $NEW$
+\end_inset
+
+ ונקבל את הדרוש: 
+\begin_inset Formula 
+\[
+\pi_{year\ n,name\ n}\left(NEW-resolt\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
