@@ -1,0 +1,1736 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass heb-article
+\begin_preamble
+\usepackage{culmus}
+
+% Convert the Lyx colors into more pleasent colors:
+\usepackage{xcolor}
+\definecolor{blue}{RGB}{14,107,217}
+\definecolor{green}{RGB}{0,158,40}
+\definecolor{red}{RGB}{235,16,16}
+\definecolor{brown}{RGB}{164,66,0}
+\definecolor{orange}{RGB}{231,135,26}
+\definecolor{purple}{RGB}{94,53,177}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 2cm
+\rightmargin 1cm
+\bottommargin 3cm
+\headheight 0cm
+\headsep 0cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation 0bp
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "c"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "20pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\paragraph_spacing double
+\align center
+
+\series bold
+\size huge
+)
+\numeric on
+67329
+\numeric off
+( 
+\begin_inset Formula $DB$
+\end_inset
+
+ | תרגיל
+\family roman
+\shape up
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+שם: רונאל חרדים, עומרי טויטו | ת
+\begin_inset Quotes erd
+\end_inset
+
+ז:
+\lang english
+208917641,208432361
+\end_layout
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+תחילה נחשב חישובים כללים על הטבלאות:
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+מספר בייטים בשורה בטבלה 
+\begin_inset Formula $authors$
+\end_inset
+
+:
+\begin_inset Formula 
+\[
+3\cdot10+3\cdot4=42
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+מספר הבלוקים בטבלה 
+\begin_inset Formula $authors$
+\end_inset
+
+:
+\series default
+
+\begin_inset Formula 
+\[
+\frac{42\cdot165000}{8192}=\frac{6930000}{8192}=847
+\]
+
+\end_inset
+
+ מספר בייטים בשורה בטבלה 
+\begin_inset Formula $conferences$
+\end_inset
+
+:
+\begin_inset Formula 
+\[
+3\cdot10=30
+\]
+
+\end_inset
+
+
+\series bold
+ מספר הבלוקים בטבלה 
+\begin_inset Formula $conferences$
+\end_inset
+
+:
+\series default
+
+\begin_inset Formula 
+\[
+\frac{30\cdot20000}{8192}=\frac{600000}{8192}=74
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+ 
+\end_layout
+
+\begin_layout Subsection*
+)א(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נחשב את עלות הצירוף של שתי הטבלאות לפי האלגוריתמים הנתונים:
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+עלות החישוב לפי 
+\begin_inset Formula $BNL$
+\end_inset
+
+:
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+נרצה שהיחס החיצוני יהיה היחס בקטן יותר לכן נבחר את 
+\begin_inset Formula $conferences$
+\end_inset
+
+ להיות היחס החיצוני ונחשב לפי הנוסחה:
+\begin_inset Formula 
+\[
+74+847\cdot\left\lceil \frac{74}{25-2}\right\rceil =74+847\cdot4=3462
+\]
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+עלות החישוב לפי 
+\begin_inset Formula $Hash\ join$
+\end_inset
+
+: 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+תחילה נבדוק כי התנאי מתקיים:
+\begin_inset Formula 
+\[
+\left\lceil \frac{74}{25-1}\right\rceil =4\leq23
+\]
+
+\end_inset
+
+ לכן ניתן להריץ את האלגוריתם, כעת נחשב את העלות: 
+\begin_inset Formula 
+\[
+3\cdot\left(74+847\right)=2763
+\]
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Enumerate
+נוכל להשתמש באלגוריתם 
+\begin_inset Formula $SORT\ MARGE$
+\end_inset
+
+ רק אם מתקיים התנאי:
+\begin_inset Formula 
+\[
+\left\lceil \frac{B(R)}{M}\right\rceil <M,\left\lceil \frac{B(S)}{M}\right\rceil <M
+\]
+
+\end_inset
+
+ נבדוק אם התנאי מתקיים: 
+\begin_inset Formula 
+\[
+\left\lceil \frac{847}{25}\right\rceil =34>M=25
+\]
+
+\end_inset
+
+ 
+\series bold
+התנאי לא מתקיים ולכן לא ניתן להריץ את האלגוריתם.
+\end_layout
+
+\begin_layout Subsection*
+)ב(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נחשב את עלות הצירוף של שתי הטבלאות לפי האלגוריתמים הנתונים עם גודל חוצץ
+ =
+\family roman
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+30
+\numeric off
+:
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+עלות החישוב לפי 
+\begin_inset Formula $BNL$
+\end_inset
+
+:
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+נרצה שהיחס החיצוני יהיה היחס בקטן יותר לכן נבחר את 
+\begin_inset Formula $conferences$
+\end_inset
+
+ להיות היחס החיצוני ונחשב לפי הנוסחה:
+\begin_inset Formula 
+\[
+74+847\cdot\left\lceil \frac{74}{30-2}\right\rceil =74+847\cdot3=2615
+\]
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+עלות החישוב לפי 
+\begin_inset Formula $Hash\ join$
+\end_inset
+
+: 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+תחילה נבדוק כי התנאי מתקיים:
+\begin_inset Formula 
+\[
+\left\lceil \frac{74}{25-1}\right\rceil =4\leq30
+\]
+
+\end_inset
+
+ לכן ניתן להריץ את האלגוריתם, כעת נחשב את העלות: 
+\begin_inset Formula 
+\[
+3\cdot\left(74+847\right)=2763
+\]
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Enumerate
+נוכל להשתמש באלגוריתם 
+\begin_inset Formula $SORT\ MARGE$
+\end_inset
+
+ רק אם מתקיים התנאי:
+\begin_inset Formula 
+\[
+\left\lceil \frac{B(R)}{M}\right\rceil <M\ and\ \left\lceil \frac{B(S)}{M}\right\rceil <M
+\]
+
+\end_inset
+
+ נבדוק אם התנאי מתקיים: 
+\begin_inset Formula 
+\[
+\left\lceil \frac{74}{30}\right\rceil =3<30,\left\lceil \frac{847}{30}\right\rceil =29<30
+\]
+
+\end_inset
+
+התנאי מתקיים לכן נוכל להריץ את האלגוריתם )לא ביעילות כי התנאי על החיבור
+ שקטן מהבאר לא מתקיים(
+\begin_inset Formula 
+\[
+5\cdot\left(74+847\right)=4605
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)ג(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נחשב את גודל החוצץ המינימלי:
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+גודל החוצץ המינימלי לאלגוריתם 
+\begin_inset Formula $BNL$
+\end_inset
+
+:
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+נרצה שהיחס החיצוני יהיה היחס בקטן יותר לכן נבחר את 
+\begin_inset Formula $conferences$
+\end_inset
+
+ להיות היחס החיצוני ונחשב לפי הנוסחה:
+\begin_inset Formula 
+\[
+74+847\cdot\left\lceil \frac{74}{M-2}\right\rceil =
+\]
+
+\end_inset
+
+נשים לכ כי כל מספר בלוקים המקיים 
+\begin_inset Formula $M-2>0$
+\end_inset
+
+ אפשרי, לכן נצטרך
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series bold
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\numeric off
+ בלוקים.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+גודל החוצץ המינימלי לאלגוריתם 
+\begin_inset Formula $Hash\ join$
+\end_inset
+
+: 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+ התנאי שצריך להתקיים הוא תקיים:
+\begin_inset Formula 
+\[
+\left\lceil \frac{74}{M-1}\right\rceil \leq M-2\Rightarrow74\leq(M-1)(M-2)\Rightarrow74\leq M^{2}-3M+2\Rightarrow
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+M^{2}-3M-72\geq0
+\]
+
+\end_inset
+
+ קיבלנו כי 
+\begin_inset Formula $M=10.11$
+\end_inset
+
+ הוא פתרון אי השוויון, נבדוק עבור 
+\begin_inset Formula $M=10$
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\left\lceil \frac{74}{10-1}\right\rceil =9>10-2=8
+\]
+
+\end_inset
+
+
+\series bold
+ עבור 
+\begin_inset Formula $M=11$
+\end_inset
+
+ התנאי מתקיים: 
+\series default
+
+\begin_inset Formula 
+\[
+\left\lceil \frac{74}{11-1}\right\rceil =8\leq11-2=9
+\]
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+גודל החוצץ המינימלי לאלגוריתם
+\series default
+ 
+\begin_inset Formula $SORT\ MARGE$
+\end_inset
+
+:
+\begin_inset Formula 
+\[
+\left\lceil \frac{B(R)}{M}\right\rceil <M,\left\lceil \frac{B(S)}{M}\right\rceil <M
+\]
+
+\end_inset
+
+נבדוק מתי התנאי מתקיים על הטבלה הגדולה יותר: 
+\begin_inset Formula 
+\[
+\left\lceil \frac{847}{M}\right\rceil <M\Rightarrow847<M^{2}\Rightarrow\sqrt{847}=\left\lceil 29.1\right\rceil =30=M
+\]
+
+\end_inset
+
+ נבדוק עבור 
+\begin_inset Formula $M=30$
+\end_inset
+
+: 
+\begin_inset Formula 
+\[
+\left\lceil \frac{847}{30}\right\rceil =29<M=30
+\]
+
+\end_inset
+
+
+\series bold
+ לכן 
+\begin_inset Formula $M=30$
+\end_inset
+
+ הוא המינימלי.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+נבדוק מהו הבאפר המינימלי עבור אלגוריתם 
+\begin_inset Formula $SORT\ MARGE$
+\end_inset
+
+ אופטימלי:
+\series default
+
+\begin_inset Formula 
+\[
+\left\lceil \frac{74}{M}\right\rceil +\left\lceil \frac{847}{M}\right\rceil <M\Rightarrow74+847<M^{2}\Rightarrow\sqrt{921}=30.34
+\]
+
+\end_inset
+
+ נבדוק עבור 
+\begin_inset Formula $M=31$
+\end_inset
+
+: 
+\begin_inset Formula 
+\[
+\left\lceil \frac{74}{31}\right\rceil +\left\lceil \frac{847}{31}\right\rceil 3+28=31=M
+\]
+
+\end_inset
+
+ נבדוק עבור 
+\begin_inset Formula $M=32$
+\end_inset
+
+: 
+\begin_inset Formula 
+\[
+\left\lceil \frac{74}{32}\right\rceil +\left\lceil \frac{847}{32}\right\rceil 3+28=31<M=32
+\]
+
+\end_inset
+
+
+\series bold
+ לכן 
+\begin_inset Formula $M=32$
+\end_inset
+
+ מקיים את הדרוש.
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נחשב את מספרי השורות ביחסים:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+מספר השורות ביחס 
+\begin_inset Formula $S$
+\end_inset
+
+:
+\begin_inset Formula 
+\[
+200\cdot150=30000
+\]
+
+\end_inset
+
+ מספרר השורות ביחס 
+\begin_inset Formula $R$
+\end_inset
+
+:
+\series default
+
+\begin_inset Formula 
+\[
+1500\cdot60=90000
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)א(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+גודל התוצאה בבלוקים של הביטוי 
+\begin_inset Formula $\sigma_{B=6}S(B,C)$
+\end_inset
+
+ הוא: 
+\end_layout
+
+\begin_layout Standard
+אנו יודעים כי 
+\begin_inset Formula $V(S,B)=250$
+\end_inset
+
+ כלומר יש
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+250
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ערכים שונים באטרביוט 
+\begin_inset Formula $B$
+\end_inset
+
+ נניח התפלגות אחידה ולכן מספר השורות: 
+\begin_inset Formula 
+\[
+\frac{30000}{250}=120
+\]
+
+\end_inset
+
+
+\series bold
+ סה
+\begin_inset Quotes erd
+\end_inset
+
+כ 
+\numeric on
+1
+\numeric off
+ בלוק.
+\end_layout
+
+\begin_layout Subsection*
+)ב(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+גודל התוצא בבלוקים של הביטוי 
+\begin_inset Formula $\sigma_{A<25}R(A,B)$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+אנו מניחים התפלגות של שליש ולכן מבספר השורות בתוצאה: 
+\begin_inset Formula 
+\[
+\frac{90000}{3}=30,000
+\]
+
+\end_inset
+
+ נמצא את מספר הבלוקים:
+\begin_inset Formula 
+\[
+\frac{30,000}{60}=500
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)ג(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+מספר השורות בביטוי 
+\begin_inset Formula $\sigma_{A<25\wedge B=6}(R(A,C)\bowtie S(B,C))$
+\end_inset
+
+ שווה ל: 
+\series default
+
+\begin_inset Formula 
+\[
+\frac{\frac{30000}{250}\cdot\frac{90000}{3}}{max\left\{ 250,30,000\right\} }=\frac{120\cdot30,000}{30,000}=120
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)ד(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נמצא את האלגוריתם היעיל ביותר לצירוף:
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+יש לנו שתי אופציות ל 
+\begin_inset Formula $BNL$
+\end_inset
+
+ ושתי אופציות ל 
+\begin_inset Formula $INL$
+\end_inset
+
+ )איזה יחס יהיה החיצוני ואיזה הפנימי( ועוד אופציה אחת עבור 
+\begin_inset Formula $hash$
+\end_inset
+
+.
+ נבדוק מי היעיל ביותר:
+\end_layout
+
+\begin_layout Standard
+ראשית נוריד את האופציות מ 
+\begin_inset Formula $BNL$
+\end_inset
+
+ ו 
+\begin_inset Formula $INL$
+\end_inset
+
+ בהם היחס החיצוני הוא הגדול יותר ונישאר עם האופציה שהיחס הקטן הוא היחס החיצוני:
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+עבור 
+\begin_inset Formula $BNL$
+\end_inset
+
+ עם היחס 
+\begin_inset Formula $S$
+\end_inset
+
+ חיצוני: 
+\series default
+
+\begin_inset Formula 
+\[
+cost\ with\ BNL=120+30,000\cdot\left\lceil \frac{1}{10-2}\right\rceil =
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נצייר עץ 
+\begin_inset Formula $query\ plan$
+\end_inset
+
+:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)ה(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+עלות החישוב היעיל ביותר היא: 
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\numeric off
+ 
+\end_layout
+
+\begin_layout Enumerate
+ראשית נשים לב כי מספר הערכים 
+\begin_inset Formula $B$
+\end_inset
+
+ ביחס 
+\begin_inset Formula $R$
+\end_inset
+
+ הם
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+5
+\numeric off
+, נניח התפלגות אחידה ולכן מספר הבלוקים בביטוי 
+\begin_inset Formula $\pi_{A,C}\sigma_{B=15}(R)$
+\end_inset
+
+ הוא: 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+תחילה נחשב את מספר השורות בביטוי:
+\begin_inset Formula 
+\[
+T\left(\pi_{A,C}\sigma_{B=15}(R)\right)=\left\lceil \frac{T(R)}{V(R,B)}\right\rceil =\left\lceil \frac{B(R)\left\lceil \frac{1,500}{30}\right\rceil }{5}\right\rceil =\frac{1000\cdot50}{5}=10,000
+\]
+
+\end_inset
+
+ נחלק במספר השורות לבלוק 
+\begin_inset Formula $75=$
+\end_inset
+
+, ונקבל:
+\begin_inset Formula 
+\[
+\left\lceil \frac{10,000}{75}\right\rceil =134
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+כמו כן עבור הפעולה 
+\begin_inset Formula $\sigma_{D<4}$
+\end_inset
+
+ מספר הבלוקים בביטוי 
+\begin_inset Formula $\sigma_{D<4}(S)$
+\end_inset
+
+ בטבלה 
+\begin_inset Formula $S$
+\end_inset
+
+
+\begin_inset Formula 
+\[
+B\left(\sigma_{D<4}(S)\right)=\frac{T\left(\sigma_{D<4}(S)\right)}{75}=\frac{75,000}{75}=1000
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+נחשב את מספר השורות בטבלה 
+\begin_inset Formula $S$
+\end_inset
+
+: 
+\series default
+מספר הבלוקים ביחס 
+\begin_inset Formula $\cdot$
+\end_inset
+
+ מספר הבייטים לבלוק , חלקי מספר הבייטים בשורה
+\begin_inset Formula 
+\[
+T(S)=\frac{3000\cdot1500}{20}=225,000
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)א(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נחשב את מספר השורות בתוצאה:
+\end_layout
+
+\begin_layout Standard
+מכיוון של 
+\begin_inset Formula $C$
+\end_inset
+
+ הוא מפתח ב 
+\begin_inset Formula $R$
+\end_inset
+
+ אזי:
+\begin_inset Formula 
+\[
+\frac{T(S)}{5\cdot3}=\frac{225,000}{15}=15,000
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)ב(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נחשב את גודל התוצאה בבלוקים: 
+\end_layout
+
+\begin_layout Standard
+יש לנו
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+15,000
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+שורות בתוצאה, גודל כל שורה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+20
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בייטים )שני אטרביוטים(, וגודל כל בלוק
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1500
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+בייטים לכן:
+\begin_inset Formula 
+\[
+\frac{15,000\cdot20}{1500}=200
+\]
+
+\end_inset
+
+
+\series bold
+סה
+\begin_inset Quotes erd
+\end_inset
+
+כ 
+\numeric on
+200
+\numeric off
+ בלוקים בתוצאה.
+
+\series default
+ 
+\end_layout
+
+\begin_layout Subsection*
+)ג(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נמצא את האלגוריתם ביעיל ביותר:
+\end_layout
+
+\begin_layout Standard
+נשים לב כי אנו האלגוריתמים 
+\begin_inset Formula $BNL,INL$
+\end_inset
+
+ לא עמדים בתאנאי הסף על גודל הדליים לכן האלגוריתם היעיל הוא 
+\begin_inset Formula $HJ$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+נצייר את עץ ה 
+\begin_inset Formula $query\ plan$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename q3.0.jpg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+כשהמעבר 
+\begin_inset Formula $R\Rightarrow\sigma_{B=15}$
+\end_inset
+
+ והמעבר 
+\begin_inset Formula $S\Rightarrow\sigma_{D<4}$
+\end_inset
+
+ נעשים עם 
+\begin_inset Formula $full\ table\ scan$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection*
+)ד(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+עלות החישוב היעיל ביותר:
+\end_layout
+
+\begin_layout Standard
+מספר השורות ב 
+\begin_inset Formula $R,S$
+\end_inset
+
+ + פעמיים מספר הבלוקים ב 
+\begin_inset Formula $R,S$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+1000+3000+2\cdot(134+1000)=6264
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\numeric off
+ 
+\end_layout
+
+\begin_layout Subsection*
+)א(
+\end_layout
+
+\begin_layout Standard
+קיבלנו 
+\begin_inset Formula $time\ out$
+\end_inset
+
+ לאחר מספר דקות.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+לאחר הרצת פקודת 
+\begin_inset Formula $explain$
+\end_inset
+
+ קיבלנו:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename q4.0.jpg
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)ב(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נכתוב שאילתה חדשה: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename q4.2.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+הזמן שלקח להריץ את השאילתה החדשה: 
+\series default
+\numeric on
+
+\begin_inset Formula $02232+261ms$
+\end_inset
+
+
+\numeric off
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+לאחר הרצת פקודת 
+\begin_inset Formula $explain$
+\end_inset
+
+ קיבלנו:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename q4.1.jpg
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+מה גרם לשיפור: 
+\series default
+בשאילתה המקורית השוונו את השנה עבור כל ערך, ובשאילתה המשופרת לקחנו את הערך
+ המקסימלי בלבד - מיינו מראש.
+\end_layout
+
+\begin_layout Subsection*
+)ג(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+האינדקס היעיל ביותר היה האינדקס הבא : 
+\begin_inset Formula $index(year,adjustedcount)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+זמן הריצה הוא: 
+\begin_inset Formula $7.267ms$
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Formula $quary\ plan$
+\end_inset
+
+ של השאילתה: 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename q4.3.jpg
+	scale 50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+השינוי בזמן הריצה: 
+\series default
+נובע מכך שלא עברנו על כל הטבלה, אלא סיננו קודם את כל השדות הרלוונטים ורק
+ אחכ ביצענו את השאילתה.
+\end_layout
+
+\end_body
+\end_document
