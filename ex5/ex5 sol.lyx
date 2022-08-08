@@ -1,0 +1,2207 @@
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass heb-article
+\begin_preamble
+\usepackage{culmus}
+
+% Convert the Lyx colors into more pleasent colors:
+\usepackage{xcolor}
+\definecolor{blue}{RGB}{14,107,217}
+\definecolor{green}{RGB}{0,158,40}
+\definecolor{red}{RGB}{235,16,16}
+\definecolor{brown}{RGB}{164,66,0}
+\definecolor{orange}{RGB}{231,135,26}
+\definecolor{purple}{RGB}{94,53,177}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_minted 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 2cm
+\rightmargin 1cm
+\bottommargin 3cm
+\headheight 0cm
+\headsep 0cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation 0bp
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Box Doublebox
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "c"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+thickness "0.4pt"
+separation "20pt"
+shadowsize "4pt"
+framecolor "black"
+backgroundcolor "none"
+status open
+
+\begin_layout Plain Layout
+\paragraph_spacing double
+\align center
+
+\series bold
+\size huge
+)
+\numeric on
+67329
+\numeric off
+( 
+\begin_inset Formula $DB$
+\end_inset
+
+ | תרגיל
+\family roman
+\shape up
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+5
+\end_layout
+
+\begin_layout Plain Layout
+\align center
+שם: רונאל חרדים, עומרי טויטו | ת
+\begin_inset Quotes erd
+\end_inset
+
+ז:
+\lang english
+208917641,208432361
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+ 
+\end_layout
+
+\begin_layout Subsection*
+)א(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נסביר מדוע היחס 
+\begin_inset Formula $Oscars$
+\end_inset
+
+ אינו בצורה נורמלית ראשונה.
+\end_layout
+
+\begin_layout Standard
+כפי שלמדנו יחס הוא 
+\begin_inset Formula $FNF$
+\end_inset
+
+ אם הוא מקיים - אם כל אטריביוט מכיל ערכים אטומים .ואין עמודות שמכילות את
+ אותה קבוצת ערכים.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+השדות 
+\begin_inset Formula $Geners,Directors,Authors,Actors$
+\end_inset
+
+ מכילות מערכי ולא אטומים ולכן הטבלה לא בצורת 
+\begin_inset Formula $FNF$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+שתי בעיות שיכולות להיגרם מכך:
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\numeric on
+1
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+- קשה להגדיר אינדקסים על השדות.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+\numeric on
+2
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+- קשה להגדיר תלויות בין השדות.
+\end_layout
+
+\begin_layout Subsection*
+)ב(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נמצא כיסוי מינימלי ל 
+\begin_inset Formula $F$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+נריץ את האלגוריתם למציאת כיסוי מינימלי.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+Oscars(ID,Title,Year,Studio,Award,releaseYear,Duration,imdbRating,imdbVotes,contentRating)
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula 
+\begin{align*}
+\ensuremath{\mathrm{F}=\{\quad\mathrm{ID}\rightarrow}Title,Studio,releaseYear,Duration.\\
+Title,Studio\ensuremath{\rightarrow}Year,Award.\\
+Title,Duration,releaseYear\ensuremath{\rightarrow}imdbRating,imdbVotes,contentRating.\\
+Title,releaseYear\ensuremath{\rightarrow}ID,Studio,Year.\\
+Title,Year\ensuremath{\rightarrow}Duration\ensuremath{\}}
+\end{align*}
+
+\end_inset
+
+
+\series bold
+שלב ראשוון
+\series default
+ - 
+\series bold
+תחילה נפריד את היחסים:
+\begin_inset Formula 
+\begin{align*}
+\ensuremath{\mathrm{ID}\rightarrow}Title.\\
+\ensuremath{\mathrm{ID}\rightarrow}Studio\\
+\ensuremath{ID\rightarrow}releaseYear\\
+\ensuremath{ID\rightarrow}Duration\\
+Title,Studio\ensuremath{\rightarrow}Year\\
+Title,Studio\ensuremath{\rightarrow}Award\\
+Title,Duration,releaseYear\ensuremath{\rightarrow}imdbRating\\
+Title,Duration,releaseYear\ensuremath{\rightarrow}imdbVotes\\
+Title,Duration,releaseYear\ensuremath{\rightarrow}contentRating.\\
+Title,releaseYear\ensuremath{\rightarrow}ID\\
+Title,releaseYear\ensuremath{\rightarrow}Studio\\
+Title,releaseYear\ensuremath{\rightarrow}Year.\\
+Title,Year\ensuremath{\rightarrow}Duration
+\end{align*}
+
+\end_inset
+
+ שלב שני - נסנן קבוצות מיותרות: 
+\series default
+כל אטרביוט בצד שמאל שניתן להוריד אותו ועדיין להגיע לאטרביוט בצד ימין עם
+ הסגור של האטרביוטים שנשארו - נוריד אותו.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+תחילה נוסיף תלויות שאי אפשר להוריד:
+\begin_inset Formula 
+\begin{align*}
+\ensuremath{\mathrm{ID}\rightarrow}Title.\\
+\ensuremath{\mathrm{ID}\rightarrow}Studio\\
+\ensuremath{ID\rightarrow}releaseYear\\
+\ensuremath{ID\rightarrow}Duration\\
+Title,Studio\ensuremath{\rightarrow}Year\\
+Title,Studio\ensuremath{\rightarrow}Award
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+כעת, נשים לב כי האטרביוט 
+\begin_inset Formula $Duration$
+\end_inset
+
+ בתלויות 
+\begin_inset Formula $Title,Duration,releaseYear\ensuremath{\rightarrow}$
+\end_inset
+
+ מיותר כי ניתן להגיע אליו עם התלות 
+\begin_inset Formula $Title,releaseYear\ensuremath{\rightarrow}Year$
+\end_inset
+
+ ו 
+\begin_inset Formula $Title,Year\ensuremath{\rightarrow}Duration$
+\end_inset
+
+ לכן נוריד אותו.
+\begin_inset Formula 
+\begin{align*}
+Title,releaseYear\ensuremath{\rightarrow}imdbRating\\
+Title,releaseYear\ensuremath{\ensuremath{\rightarrow}imdbVotes}\\
+Title,releaseYear\ensuremath{\rightarrow}contentRating
+\end{align*}
+
+\end_inset
+
+ נמשיך להוסיף את שאר התלויות: 
+\begin_inset Formula 
+\begin{align*}
+Title,releaseYear\ensuremath{\rightarrow}ID\\
+Title,releaseYear\ensuremath{\rightarrow}Studio\\
+Title,releaseYear\ensuremath{\rightarrow}Year.\\
+Title,Year\ensuremath{\rightarrow}Duration
+\end{align*}
+
+\end_inset
+
+
+\series bold
+ שלב שלישי - נמחק כפילויות מהקבוצה הסופית ונמצא את :
+\begin_inset Formula 
+\begin{align*}
+\ensuremath{\mathrm{ID}\rightarrow}Title.\\
+\ensuremath{\mathrm{ID}\rightarrow}Studio\\
+\ensuremath{ID\rightarrow}releaseYear\\
+\ensuremath{ID\rightarrow}Duration\\
+Title,Studio\ensuremath{\rightarrow}Year\\
+Title,Studio\ensuremath{\rightarrow}Award\\
+Title,releaseYear\ensuremath{\rightarrow}imdbRating\\
+Title,releaseYear\ensuremath{\ensuremath{\rightarrow}imdbVotes}\\
+Title,releaseYear\ensuremath{\rightarrow}contentRating\\
+Title,releaseYear\ensuremath{\rightarrow}ID
+\end{align*}
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+התלות 
+\begin_inset Formula $Title,releaseYear\ensuremath{\rightarrow}Year$
+\end_inset
+
+ נמחקה כי ניתן להגיע אליה מתלויות אחרות בקבוצה דרך 
+\begin_inset Formula $ID$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+התלות 
+\begin_inset Formula $Title,releaseYear\ensuremath{\rightarrow}Studio$
+\end_inset
+
+ נמחקה כי ניתן להגיע אליה מתלויות אחרות בקבוצה דרך 
+\begin_inset Formula $ID$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+התלות 
+\begin_inset Formula $Title,Year\ensuremath{\rightarrow}Duration$
+\end_inset
+
+ נמחקה כי ניתן להגיע אליה מתלויות אחרות בקבוצה דרך 
+\begin_inset Formula $ID$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+זאת הקבוצה 
+\begin_inset Formula $G$
+\end_inset
+
+ כנדרש.
+\end_layout
+
+\begin_layout Subsection*
+)ג(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נמצא את כל המפתחות:
+\end_layout
+
+\begin_layout Standard
+נתחיל מהאטרביוט 
+\begin_inset Formula $ID$
+\end_inset
+
+ כי כפי שניתן לראות הסגור שלו הוא כל האטרביוטיןם המופיעים בטבלה.
+ לכן 
+\begin_inset Formula $ID$
+\end_inset
+
+ הוא מפתח.
+\end_layout
+
+\begin_layout Standard
+נשים לב כי 
+\begin_inset Formula $Title,releaseYear\ensuremath{\rightarrow}ID$
+\end_inset
+
+ ולכן גם הוא מפתח.
+\end_layout
+
+\begin_layout Standard
+בהמשך ריצת האלגוריתם נראה כי לא ניתן להחליף את היחסים 
+\begin_inset Formula $Title,releaseYear$
+\end_inset
+
+ ביחס אחר שגורר אותם כי הם נגררים רק ע
+\begin_inset Quotes erd
+\end_inset
+
+י 
+\begin_inset Formula $ID$
+\end_inset
+
+ לכן סיימנו 
+\series bold
+
+\begin_inset Formula 
+\[
+Keys=(\left\{ ID\right\} ,\left\{ Title,releaseYear\right\} )
+\]
+
+\end_inset
+
+ הצורה הנורמלית:
+\end_layout
+
+\begin_layout Standard
+לא 
+\begin_inset Formula $BCNF$
+\end_inset
+
+: מכיוון ש 
+\begin_inset Formula $Title,Studio\ensuremath{\rightarrow}Year$
+\end_inset
+
+ לא מפתח על.
+\begin_inset Newline newline
+\end_inset
+
+לא 
+\begin_inset Formula $3NF$
+\end_inset
+
+: מכיוון שהתלות 
+\begin_inset Formula $Title,Studio\ensuremath{\rightarrow}Year$
+\end_inset
+
+ לא מקיימת את הדרישות של 
+\begin_inset Formula $3NF$
+\end_inset
+
+ - 
+\begin_inset Formula $Title,Studio$
+\end_inset
+
+ לא מפתח וגם 
+\begin_inset Formula $year$
+\end_inset
+
+לא מופיע במפתח.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+לכן הצורה הנורמלית אינה 
+\begin_inset Formula $BCNF$
+\end_inset
+
+ ואינה 
+\begin_inset Formula $3NF$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection*
+)ד(
+\end_layout
+
+\begin_layout Standard
+נתון הפירוק הבא: 
+\begin_inset Formula 
+\[
+\begin{aligned} & R_{1}=(\text{ ID, Title, Duration, Award) }\\
+ & R_{2}=(\text{ Title, releaseYear, imdbRating, imdbVotes, contentRating) }\\
+ & R_{3}=(\text{ ID, Studio, Year) }
+\end{aligned}
+\]
+
+\end_inset
+
+
+\series bold
+נכריע האם הוא ללא אובדן:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+ראשית נמלא את הטבלה:
+\end_layout
+
+\begin_layout Standard
+העמודה השמאלית תכיל את היחסים )הפרדתי משיקולי מיקום(
+\begin_inset Formula 
+\begin{align*}
+R_{1}=(\text{ ID, Title, Duration, Award) }\\
+R_{2}=(\text{ Title, releaseYear, imdbRating, imdbVotes, contentRating) }\\
+R_{3}=(\text{ ID, Studio, Year) }
+\end{align*}
+
+\end_inset
+
+
+\series bold
+
+\begin_inset Formula 
+\[
+\begin{array}{ccccccccccc}
+ & ID & title & year & studio & award & relase\ year & duration & imdbReating & imdbVote & ContentReating\\
+ & a1 & a2 & b1,3 & b1,4 & a5 & b1,6 & a7 & b1,8 & b1,9 & b1,10\\
+ & b2,1 & a2 & b2,3 & b2,4 & b2,5 & a6 & b2,7 & a8 & a9 & a10\\
+ & a1 & b3,2 & a3 & a4 & b3,5 & b3,6 & b3,7 & b3,8 & b3,9 & b3,10
+\end{array}
+\]
+
+\end_inset
+
+ נעבור על התלויות ונחליף 
+\begin_inset Formula $b$
+\end_inset
+
+-ים ב 
+\begin_inset Formula $a$
+\end_inset
+
+ -ים :
+\begin_inset Formula 
+\[
+\begin{array}{ccccccccccc}
+ & ID & title & year & studio & award & relase\ year & duration & imdbReating & imdbVote & ContentReating\\
+ & a1 & a2 & a3 & a4 & a5 & b1,6 & a7 & b1,8 & b1,9 & b1,10\\
+ & b2,1 & a2 & b2,3 & b2,4 & b2,5 & a6 & b2,7 & a8 & a9 & a10\\
+ & a1 & a2 & a3 & a4 & a5 & b1,6 & a7 & b1,8 & b1,9 & b1,10
+\end{array}
+\]
+
+\end_inset
+
+
+\series default
+ אין אף שורה שכולה מכילה רק 
+\begin_inset Formula $a$
+\end_inset
+
+-ים, ולכן 
+\series bold
+הפירוק עם אובדן.
+\end_layout
+
+\begin_layout Subsection*
+)ה(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נמצא פירוק של היחס ל 
+\begin_inset Formula $3NF$
+\end_inset
+
+ לפי האלגוריתם: 
+\series default
+נתחיל מהפירוק המינימלי שמצאנו בסעיף ב
+\series bold
+ 
+\series default
+
+\begin_inset Formula 
+\begin{align*}
+\ensuremath{\mathrm{ID}\rightarrow}Title.\\
+\ensuremath{\mathrm{ID}\rightarrow}Studio\\
+\ensuremath{ID\rightarrow}releaseYear\\
+\ensuremath{ID\rightarrow}Duration\\
+Title,Studio\ensuremath{\rightarrow}Year\\
+Title,Studio\ensuremath{\rightarrow}Award\\
+Title,releaseYear\ensuremath{\rightarrow}imdbRating\\
+Title,releaseYear\ensuremath{\ensuremath{\rightarrow}imdbVotes}\\
+Title,releaseYear\ensuremath{\rightarrow}contentRating\\
+Title,releaseYear\ensuremath{\rightarrow}ID
+\end{align*}
+
+\end_inset
+
+
+\series bold
+ עבור כל תלות ניצור את הסכמה המתאימה:
+\series default
+
+\begin_inset Formula 
+\begin{align*}
+R1= & \ensuremath{\mathrm{ID},}Title.\\
+R2= & \ensuremath{\mathrm{ID},}Studio\\
+R3= & \ensuremath{ID,}releaseYear\\
+R4= & \ensuremath{ID,}Duration\\
+R5= & Title,Studio\ensuremath{,}Year\\
+R6= & Title,Studio,Award\\
+R7= & Title,releaseYear,imdbRating\\
+R8= & Title,releaseYear\ensuremath{,imdbVotes}\\
+R9= & Title,releaseYear,ID\\
+R10= & Title,releaseYear,contentRating
+\end{align*}
+
+\end_inset
+
+
+\series bold
+כעת, נמחק טבלאות שמוכלות אחת בשניה: 
+\series default
+
+\begin_inset Formula 
+\begin{align*}
+ & R2=\ensuremath{\mathrm{ID},}Studio\\
+ & R4=\ensuremath{ID,}Duration\\
+ & R5=Title,Studio\ensuremath{,}Year\\
+ & R6=Title,Studio,Award\\
+ & R7=Title,releaseYear,imdbRating\\
+ & R8=Title,releaseYear\ensuremath{,imdbVotes}\\
+ & R9=Title,releaseYear,ID\\
+ & R10=Title,releaseYear,contentRating
+\end{align*}
+
+\end_inset
+
+ 
+\series bold
+נכתוב את הצורה הנורמלית לכל אחת מתתי הסכמות:
+\end_layout
+
+\begin_layout Standard
+כל הסכמות הן ב 
+\begin_inset Formula $BCNF$
+\end_inset
+
+ כי לפי האלגוריתם לבדיקת צורה נורמלית של תתי יחסים כל האטרביוטים השמאליים
+ מפתחות.
+\end_layout
+
+\begin_layout Subsection*
+)ו(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נמצא פירוק ל 
+\begin_inset Formula $BCNF$
+\end_inset
+
+ לפי האלגוריתם: 
+\end_layout
+
+\begin_layout Standard
+נתחיל מהקבוצה 
+\begin_inset Formula $F$
+\end_inset
+
+: 
+\begin_inset Formula 
+\begin{align*}
+\ensuremath{\mathrm{ID}\rightarrow}Title,Studio,releaseYear,Duration.\\
+Title,Studio\ensuremath{\rightarrow}Year,Award.\\
+Title,Duration,releaseYear\ensuremath{\rightarrow}imdbRating,imdbVotes,contentRating.\\
+Title,releaseYear\ensuremath{\rightarrow}ID,Studio,Year.\\
+Title,Year\ensuremath{\rightarrow}Duration
+\end{align*}
+
+\end_inset
+
+נקח את התלות הראשונה שאינה בצורת 
+\begin_inset Formula $BCNF$
+\end_inset
+
+: 
+\begin_inset Formula $Title,Studio\ensuremath{\rightarrow}Year,Award$
+\end_inset
+
+ ונמצא את הסגור של 
+\begin_inset Formula $Title,Studio$
+\end_inset
+
+
+\begin_inset Formula 
+\[
+R_{1}=Title,Studio^{+}=\left\{ Title,Studio,Year,Award,Duration\right\} 
+\]
+
+\end_inset
+
+ 
+\begin_inset Formula 
+\[
+R_{2}=\left\{ ID,Title,Studio,relase\ year,imdbreating,imdbvote,ContentReating\right\} 
+\]
+
+\end_inset
+
+מכיוון ש 
+\begin_inset Formula $R_{1},R_{2}$
+\end_inset
+
+ הוא מהצורה 
+\begin_inset Formula $BCNF$
+\end_inset
+
+ - 
+\begin_inset Formula $R_{1}$
+\end_inset
+
+ מכילה תלויות טרוויאליות, 
+\begin_inset Formula $R_{2}$
+\end_inset
+
+ מכילה מפתח.
+ נעצור כאן .
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+נמשיך עבור התלות הבאה שאינה בצורת 
+\begin_inset Formula $BCNF$
+\end_inset
+
+: 
+\begin_inset Formula $Title,Year\ensuremath{\rightarrow}Duration$
+\end_inset
+
+: 
+\begin_inset Formula 
+\[
+R_{3}=Title,Year=\left\{ Title,Year,Duration\right\} 
+\]
+
+\end_inset
+
+ מכיוון שקבוצת התלויות הפונקציונליות של תת היחס טרוייאלית הטבלה היא ב 
+\begin_inset Formula $BCNF$
+\end_inset
+
+ כנדרש.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+נבדוק האם הפירוק משמר תלויות: 
+\end_layout
+
+\begin_layout Standard
+לאחר הפעלת האלגוריתם קיבלנו כי כל אטרביוט 
+\begin_inset Formula $Y$
+\end_inset
+
+ בתלויות 
+\begin_inset Formula $X\Rightarrow Y$
+\end_inset
+
+ נמצא בקבוצה 
+\begin_inset Formula $Z$
+\end_inset
+
+ ולכן 
+\series bold
+הפירוק משמר תלויות 
+\series default
+כנדרש.
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+ 
+\end_layout
+
+\begin_layout Subsection*
+)א(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נכתוב את התלויות הפונקציונליות: 
+\series default
+
+\begin_inset Formula 
+\begin{align*}
+TranscationNo & \Rightarrow Date\\
+TranscationNo & \Rightarrow CustomerNo\\
+ProductNo\Rightarrow & ProductName\\
+CustomerNo\Rightarrow & Country
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)ב(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נמצא את המפתחות של הטבלה: 
+\end_layout
+
+\begin_layout Standard
+נתחיל מ 
+\begin_inset Formula $TranscationNo$
+\end_inset
+
+ ונמצא את הסגור שלו:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+TranscationNo^{+}=\left\{ TranscationNo,Date,CustomerNo,Country\right\} 
+\]
+
+\end_inset
+
+ נשים לב כי חסרים עוד אטרביוטים לכן נוסיף למפתח את האטרביוטים החסרים 
+\begin_inset Formula $ProductNo,Price,Quantity$
+\end_inset
+
+ שיוסיפו את עצמם לסגור ויגררו לנו את השאר: 
+\begin_inset Formula 
+\begin{align*}
+TranscationNo,ProductNo,Price,Quantity^{+} & =\\
+\left\{ TranscationNo,Date,CustomerNo,Country,ProductNo,ProductName,Price,Quantity\right\} 
+\end{align*}
+
+\end_inset
+
+ לאחר הרצה אחת של האלגוריתם נראה כי איםן מפתח נוסף כי אף אטרביוט לא גורר
+ את האטרביוטים מהמפתח לכן המפתח הוא: 
+\begin_inset Formula 
+\[
+Key=\left(TranscationNo,ProductNo,Price,Quantity^{+}\right)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)ג(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נמצא את הצורה הנורמלית של הטבלה:
+\end_layout
+
+\begin_layout Standard
+הטבלה 
+\series bold
+אינה מהצורה 
+\begin_inset Formula $BCNF$
+\end_inset
+
+ ואינה מהצורה 
+\begin_inset Formula $3NF$
+\end_inset
+
+ 
+\series default
+משום שקיימת תלות שאינה מפתח ואינה משתתפת במפתח - 
+\begin_inset Formula $CustomerNo\Rightarrow Country$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection*
+)ה(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+התלויות שנשמרות הן: 
+\begin_inset Formula 
+\begin{align*}
+TranscationNo & \Rightarrow Date\\
+TranscationNo & \Rightarrow CustomerNo
+\end{align*}
+
+\end_inset
+
+ התלויות שאינן נשמרות הן: 
+\series default
+
+\begin_inset Formula 
+\begin{align*}
+ProductNo\Rightarrow & ProductName\\
+CustomerNo\Rightarrow & Country
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נכתוב פירוק מומלץ של הטבלה לתתי יחסים: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+R_{1} & =\left(TranscationNo,Date,CustomerNo,Country\right)\\
+R_{2} & =\left(ProductNo,ProductName\right)\\
+R_{3} & =\left(Price,Quantity,TranscationNo,ProductNo\right)
+\end{align*}
+
+\end_inset
+
+בטבלה 
+\begin_inset Formula $R_{1}$
+\end_inset
+
+ מופיעים כל האטרביוטים שיש בניהן תלויות יחד 
+\begin_inset Formula $TranscationNo\Rightarrow Date,CustomerNo,Country$
+\end_inset
+
+.
+ בטבלה 
+\begin_inset Formula $R_{2}$
+\end_inset
+
+ מופיעה התלות השלישית.
+ ובטבלה 
+\begin_inset Formula $R_{3}$
+\end_inset
+
+ מופיעים האטרביוטים ללא התלויות ואטרביוטים 
+\begin_inset Formula $TranscationNo,ProductNo$
+\end_inset
+
+ שיעזרו לנו לחזור לטבלה המקורית.
+ 
+\end_layout
+
+\begin_layout Standard
+מתקיים שימור תלויות ולכן הפירוק הוא ללא אובדן ורק שורות מתאימו תיכנסנה.
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\end_layout
+
+\begin_layout Standard
+נתונה הסכמה:
+\begin_inset Formula 
+\[
+\mathrm{R}=(\mathrm{A},B,C,D,E)
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+נתונה הקבוצה 
+\begin_inset Formula $F$
+\end_inset
+
+ הבאה:
+\begin_inset Formula 
+\begin{align*}
+\mathrm{F}_{\mathrm{R}} & =\{\mathrm{CD}\rightarrow\mathrm{AB},\\
+ & \mathrm{A}\rightarrow\mathrm{E},\\
+ & \mathrm{E}\rightarrow\mathrm{D},\\
+ & \mathrm{ACE}\rightarrow\mathrm{B}\}
+\end{align*}
+
+\end_inset
+
+ ופירוקים ליחסים: 
+\begin_inset Formula 
+\begin{align*}
+\begin{aligned} & \mathrm{R}_{1}=(\mathrm{A},C,D,E)\\
+ & \mathrm{R}_{2}=(B,C,D,E)
+\end{aligned}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+)א(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נמצא את המפתחות של 
+\begin_inset Formula $R$
+\end_inset
+
+: 
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+נתחיל ממציאת הסגור של 
+\begin_inset Formula $CD$
+\end_inset
+
+:
+\begin_inset Formula 
+\[
+CD^{+}=\left\{ C,D,A,B,E\right\} 
+\]
+
+\end_inset
+
+ הסגור של 
+\begin_inset Formula $CD$
+\end_inset
+
+ הוא כל 
+\begin_inset Formula $R$
+\end_inset
+
+ ולכן הוא מפתח, נפעיל עליו את האלגוריתם.
+\end_layout
+
+\begin_layout Standard
+נשים לב כי אנו יכולים להחליף את 
+\begin_inset Formula $D$
+\end_inset
+
+ ב 
+\begin_inset Formula $E$
+\end_inset
+
+ מהתלות הנתונה ולכן 
+\begin_inset Formula $CE$
+\end_inset
+
+ הוא גם מפתח.
+\end_layout
+
+\begin_layout Standard
+השים לב שניתן להחליף את 
+\begin_inset Formula $E$
+\end_inset
+
+ ב 
+\begin_inset Formula $A$
+\end_inset
+
+ מהתלות הנתונה ולכן 
+\begin_inset Formula $AC$
+\end_inset
+
+ הוא גם מפתח.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+לא נתין להחליף את 
+\begin_inset Formula $C$
+\end_inset
+
+ באטרביוט אחר כי אין תלות שגוררת את 
+\begin_inset Formula $C$
+\end_inset
+
+.
+ לכן המפתחות הם: 
+\begin_inset Formula 
+\[
+Keys=\left\{ CD,CE,AC\right\} 
+\]
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Subsection*
+)ב(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נבדוק את הצורה הנורמלית של 
+\begin_inset Formula $R$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Formula $BCNF$
+\end_inset
+
+: 
+\series default
+קיימות תלויות שאינן מפתחות ולכן 
+\begin_inset Formula $R\notin BCNF$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\begin_inset Formula $3NF$
+\end_inset
+
+:
+\series default
+ נשים לב כי בכל תלות ב 
+\begin_inset Formula $F$
+\end_inset
+
+ האטרביוט השמאלי משתתף במפתח ולכן 
+\begin_inset Formula $R\in3NF$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection*
+)ג(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נבדוק אם הפירוק ללא אובדן לפי האלגוריתם:
+\end_layout
+
+\begin_layout Standard
+תחילה נמלא את הטבלה:
+\begin_inset Formula 
+\[
+\begin{array}{cccccc}
+ & \mathrm{A} & B & C & D & E\\
+\mathrm{R}_{1}=(\mathrm{A},C,D,E) & a1 & b12 & a3 & a4 & a5\\
+\mathrm{R}_{2}=(B,C,D,E) & b21 & a2 & a3 & a4 & a5
+\end{array}
+\]
+
+\end_inset
+
+ מהתלות 
+\begin_inset Formula $\mathrm{CD}\rightarrow\mathrm{AB}$
+\end_inset
+
+ אנו מקבלים את הטבלה הבאה: 
+\begin_inset Formula 
+\[
+\begin{array}{cccccc}
+ & \mathrm{A} & B & C & D & E\\
+\mathrm{R}_{1}=(\mathrm{A},C,D,E) & a1 & a2 & a3 & a4 & a5\\
+\mathrm{R}_{2}=(B,C,D,E) & a2 & a2 & a3 & a4 & a5
+\end{array}
+\]
+
+\end_inset
+
+ 
+\series bold
+כל שורות הטבלה מלאות ב 
+\begin_inset Formula $a$
+\end_inset
+
+-ים ולכן הפירוק ללא אובדן.
+\end_layout
+
+\begin_layout Subsection*
+)ד(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נבדוק אלו תלויות נשמרות ע
+\begin_inset Quotes erd
+\end_inset
+
+י הפירוק ואילו לא: 
+\end_layout
+
+\begin_layout Standard
+נתבונן בקבוצה 
+\begin_inset Formula $F$
+\end_inset
+
+
+\begin_inset Formula 
+\begin{align*}
+\mathrm{CD}\rightarrow\mathrm{AB},\\
+\mathrm{A}\rightarrow\mathrm{E},\\
+\mathrm{E}\rightarrow\mathrm{D},\\
+\mathrm{ACE}\rightarrow\mathrm{B}
+\end{align*}
+
+\end_inset
+
+
+\series bold
+נבדוק אילו תלויות נשמרות: 
+\series default
+נפעיל את האלגוריתם לשימור תלויות 
+\begin_inset Formula $Z:=Z\cup\left(\left(Z\cap R_{i}\right)^{+}\cap R_{i}\right)$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נבדוק את התלות: 
+\begin_inset Formula $\mathrm{CD}\rightarrow\mathrm{AB}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+Z=CD\cup\left((CD\cap R_{1})^{+}\cap R_{1}\right)=CD\cup\left((CD\cap\mathrm{A},C,D,E)^{+}\cap\mathrm{A},C,D,E\right)
+\]
+
+\end_inset
+
+ 
+\begin_inset Formula 
+\[
+=CD\cup\left((ABCDE)\cap\mathrm{A},C,D,E\right)=\mathrm{A},C,D,E
+\]
+
+\end_inset
+
+נמשיך לפירוק הבא - 
+\begin_inset Formula $R_{2}$
+\end_inset
+
+: 
+\begin_inset Formula 
+\[
+Z=\mathrm{A},C,D,E\cup\left((\mathrm{A},C,D,E\cap R_{2})^{+}\cap R_{2}\right)=\mathrm{A},C,D,E\cup\left((\mathrm{A},C,D,E\cap B,C,D,E)^{+}\cap B,C,D,E\right)
+\]
+
+\end_inset
+
+ 
+\begin_inset Formula 
+\[
+=\mathrm{A},C,D,E\cup\left((C,D,E)^{+}\cap B,C,D,E\right)=\mathrm{A},C,D,E\cup B,C,D,E=\mathrm{A},B,C,D,E
+\]
+
+\end_inset
+
+ 
+\begin_inset Formula $Y\in Z$
+\end_inset
+
+ ולכן התלות הזו נשמרת.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+נבדוק את התלות 
+\begin_inset Formula $A\Rightarrow E$
+\end_inset
+
+: 
+\series default
+
+\begin_inset Formula 
+\[
+Z:=Z\cup\left(\left(Z\cap R_{1}\right)^{+}\cap R_{1}\right)=A\cup\left(\left(A\cap\mathrm{A},C,D,E\right)^{+}\cap\mathrm{A},C,D,E\right)=A\cup\left(A,E,D\cap\mathrm{A},C,D,E\right)=A,E,D
+\]
+
+\end_inset
+
+ 
+\begin_inset Formula $E\in Z$
+\end_inset
+
+ ולכן התלות הזו נשמרת.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+נבדוק את התלות 
+\begin_inset Formula $E\Rightarrow D$
+\end_inset
+
+:
+\series default
+
+\begin_inset Formula 
+\[
+Z:=E\cup\left(\left(E\cap\mathrm{A},C,D,E\right)^{+}\cap\mathrm{A},C,D,E\right)=E\cup\left(\left(E\right)^{+}\cap\mathrm{A},C,D,E\right)=ED
+\]
+
+\end_inset
+
+ 
+\begin_inset Formula $D\in Z$
+\end_inset
+
+ ולכן התלות נשמרת.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+נבדוק את התלות האחרונה 
+\begin_inset Formula $\mathrm{ACE}\rightarrow\mathrm{B}$
+\end_inset
+
+: 
+\series default
+
+\begin_inset Formula 
+\[
+Z:=ACE\cup\left(\left(ACE\cap\mathrm{A},C,D,E\right)^{+}\cap\mathrm{A},C,D,E\right)=ACE\cup\left(\left(ACE\right)^{+}\cap\mathrm{A},C,D,E\right)
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+=ACE\cup\left(ABCDE\cap\mathrm{A},C,D,E\right)=\mathrm{A},C,D,E
+\]
+
+\end_inset
+
+נבדוק עבור הפירוק הבא: 
+\begin_inset Formula 
+\[
+\mathrm{A},C,D,E\cup\left(\left(\mathrm{A},C,D,E\cap R_{2}\right)^{+}\cap R_{2}\right)=\mathrm{A},C,D,E\cup\left(\left(\mathrm{A},C,D,E\cap B,C,D,E\right)^{+}\cap B,C,D,E\right)E
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+=\mathrm{A},C,D,E\cup\left(\left(C,D,E\right)^{+}\cap B,C,D,E\right)=\mathrm{A},B,C,D,
+\]
+
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Standard
+מתקיים 
+\begin_inset Formula $B\in Z$
+\end_inset
+
+ ולכן התלות נשמרת.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+קיבלנו כי כל התלויות נשמרות.
+\end_layout
+
+\begin_layout Subsection*
+)ה(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נמצא כיסוי מינימלי של התלויות 
+\begin_inset Formula $F_{R_{1}}$
+\end_inset
+
+:
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+נמצא תחילה את התלויות 
+\begin_inset Formula $F_{R_{1}}$
+\end_inset
+
+: 
+\series bold
+
+\begin_inset Formula 
+\begin{align*}
+A & \Rightarrow A,D,E\\
+C & \Rightarrow C\\
+D & \Rightarrow D\\
+E & \Rightarrow D,E\\
+AC & \Rightarrow A,C,E\\
+AD & \Rightarrow A,D,E\\
+AE & \Rightarrow A,D,E\\
+CD & \Rightarrow A,C,D,E\\
+CE & \Rightarrow A,C,D,E\\
+DE & \Rightarrow D,E\\
+ACD & \Rightarrow A,C,D,E\\
+ACE & \Rightarrow A,C,D,E\\
+ADE & \Rightarrow A,D,E\\
+CDE & \Rightarrow A,C,D,E\\
+ACDE & \Rightarrow A,C,D,E
+\end{align*}
+
+\end_inset
+
+ נפעיל את האלגוריתם:
+\begin_inset Newline newline
+\end_inset
+
+שלב ראשון:
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+
+\begin_inset Formula 
+\begin{align*}
+A & \Rightarrow A\\
+A & \Rightarrow D\\
+A & \Rightarrow E\\
+C & \Rightarrow C\\
+D & \Rightarrow D\\
+E & \Rightarrow D\\
+E & \Rightarrow E\\
+AC & \Rightarrow A\\
+AC & \Rightarrow C\\
+AC & \Rightarrow E\\
+AD & \Rightarrow A\\
+AD & \Rightarrow D\\
+AD & \Rightarrow E\\
+AE & \Rightarrow A\\
+AE & \Rightarrow D\\
+AE & \Rightarrow E\\
+CD & \Rightarrow A\\
+CD & \Rightarrow C\\
+CD & \Rightarrow D\\
+CD & \Rightarrow E\\
+CE & \Rightarrow A\\
+CE & \Rightarrow C\\
+CE & \Rightarrow D\\
+CE & \Rightarrow E\\
+DE & \Rightarrow D\\
+DE & \Rightarrow E\\
+ACD & \Rightarrow A\\
+ACD & \Rightarrow C\\
+ACD & \Rightarrow D\\
+ACD & \Rightarrow E\\
+ACE & \Rightarrow A\\
+ACE & \Rightarrow C\\
+ACE & \Rightarrow D\\
+ACE & \Rightarrow E\\
+ADE & \Rightarrow A\\
+ADE & \Rightarrow D\\
+ADE & \Rightarrow E\\
+CDE & \Rightarrow A\\
+CDE & \Rightarrow C\\
+CDE & \Rightarrow D\\
+CDE & \Rightarrow E\\
+ACDE & \Rightarrow A\\
+ACDE & \Rightarrow C\\
+ACDE & \Rightarrow D\\
+ACDE & \Rightarrow E
+\end{align*}
+
+\end_inset
+
+שלב שני - נוריד תלויות מיותרות.
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+נתחיל להוריד את התלויות הטרוויאיות:
+\begin_inset Formula 
+\begin{align*}
+A & \Rightarrow D\\
+A & \Rightarrow E\\
+E & \Rightarrow D\\
+AC & \Rightarrow E\\
+AD & \Rightarrow E\\
+AE & \Rightarrow D\\
+CD & \Rightarrow A\\
+CD & \Rightarrow E\\
+CE & \Rightarrow A\\
+CE & \Rightarrow D\\
+ACD & \Rightarrow E\\
+ACE & \Rightarrow D\\
+CDE & \Rightarrow A
+\end{align*}
+
+\end_inset
+
+לאחר מכן נעבור לפי האלגוריתם: 
+\begin_inset Formula 
+\begin{align*}
+A & \Rightarrow D\\
+A & \Rightarrow E\\
+E & \Rightarrow D\\
+A & \Rightarrow E\\
+A & \Rightarrow E\\
+E & \Rightarrow D\\
+CD & \Rightarrow A\\
+CD & \Rightarrow E\\
+CE & \Rightarrow A\\
+E & \Rightarrow D\\
+A & \Rightarrow E\\
+E & \Rightarrow D\\
+CD & \Rightarrow A
+\end{align*}
+
+\end_inset
+
+
+\series bold
+שלב שלישי
+\family roman
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+- נוריד כפילויות: 
+\begin_inset Formula 
+\begin{align*}
+A & \Rightarrow E\\
+E & \Rightarrow D\\
+CD & \Rightarrow E\\
+CE & \Rightarrow A
+\end{align*}
+
+\end_inset
+
+וזה הכיסוי המינימלי הנדרש.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+נבדוק את הצורה הנורמלית של 
+\begin_inset Formula $R_{1}$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+נזכור כי אלו המפתחות: 
+\begin_inset Formula $Keys=\left\{ CD,CE,AC\right\} $
+\end_inset
+
+, כעת נבדוק איזה צורה נורמלית התלויות מקיימות: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $BCNF$
+\end_inset
+
+: בכלל התלות 
+\begin_inset Formula $E\Rightarrow D$
+\end_inset
+
+ ומכך ש 
+\begin_inset Formula $E$
+\end_inset
+
+ אינו מפתח על אנו לא בצורה 
+\begin_inset Formula $BCNF$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $3NF$
+\end_inset
+
+: כל אטרביוט בצד שמאל של כל אחת מהתלויות משתתף במפתח ולכן היא מהצורה 
+\begin_inset Formula $3NF$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection*
+)ו(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נמצא כיסוי מינימלי של התלויות 
+\begin_inset Formula $F_{R_{2}}$
+\end_inset
+
+:
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+תחילה נמצא את התלויות ב 
+\begin_inset Formula $F_{R_{2}}$
+\end_inset
+
+: 
+\begin_inset Formula 
+\begin{align*}
+B & \Rightarrow B\\
+C & \Rightarrow C\\
+D & \Rightarrow D\\
+E & \Rightarrow D,E\\
+BC & \Rightarrow B,C\\
+BD & \Rightarrow B,D\\
+BE & \Rightarrow B,D,E\\
+CD & \Rightarrow B,C,D,E\\
+CE & \Rightarrow C,D,E\\
+DE & \Rightarrow D,E\\
+BCD & \Rightarrow B,C,D,E\\
+BCE & \Rightarrow B,C,D,E\\
+BDE & \Rightarrow B,D,E\\
+CDE & \Rightarrow B,C,D,E\\
+BCDE & \Rightarrow B,C,D,E
+\end{align*}
+
+\end_inset
+
+
+\series bold
+כעת, נפעיל את האלגוריתם.
+\begin_inset Newline newline
+\end_inset
+
+שלב ראשון - נפריד תלויות: 
+\series default
+על הדרך נסנן תלויות טרוויאליות.
+\series bold
+
+\begin_inset Formula 
+\begin{align*}
+E & \Rightarrow D\\
+BE & \Rightarrow D\\
+CD & \Rightarrow B\\
+CD & \Rightarrow E\\
+CE & \Rightarrow D\\
+BCD & \Rightarrow E\\
+BCE & \Rightarrow D\\
+CDE & \Rightarrow B
+\end{align*}
+
+\end_inset
+
+ שלב שני - נבדוק אם ניתן להוריד אטרביוטים:
+\begin_inset Formula 
+\begin{align*}
+E & \Rightarrow D\\
+E & \Rightarrow D\\
+CD & \Rightarrow B\\
+CD & \Rightarrow E\\
+E & \Rightarrow D\\
+CD & \Rightarrow E\\
+E & \Rightarrow D\\
+CD & \Rightarrow B
+\end{align*}
+
+\end_inset
+
+שלב שלישי - נמחוק תלויות מיותרות:
+\begin_inset Formula 
+\begin{align*}
+CD & \Rightarrow E\\
+E & \Rightarrow D\\
+CD & \Rightarrow B
+\end{align*}
+
+\end_inset
+
+ואכן זה הכיסוי המינימלי כנדרש.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+נבדוק את הצורה הנורמלית של 
+\begin_inset Formula $R_{2}$
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Standard
+נזכור כי אלו המפתחות: 
+\begin_inset Formula $Keys=\left\{ CD,CE,AC\right\} $
+\end_inset
+
+, כע נבדוק איזה צורה נורמלית התלויות מקיימות: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $BCNF$
+\end_inset
+
+: בכלל התלות 
+\begin_inset Formula $E\Rightarrow D$
+\end_inset
+
+ ומכך ש 
+\begin_inset Formula $E$
+\end_inset
+
+ אינו מפתח על אנו לא בצורה 
+\begin_inset Formula $BCNF$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $3NF$
+\end_inset
+
+: כל אטרביוט בצד שמאל של כל אחת מהתלויות משתתף במפתח ולכן היא מהצורה 
+\begin_inset Formula $3NF$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section*
+שאלה
+\family roman
+\series bold
+\shape smallcaps
+\size larger
+\emph off
+\bar no
+\strikeout off
+\xout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\xout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\end_layout
+
+\begin_layout Subsection*
+)א(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+הטענה נכונה.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+הוכחה: 
+\series default
+נניח בשלילה כי תת הסכמה 
+\begin_inset Formula $X$
+\end_inset
+
+ אנינה בהכרח ב 
+\begin_inset Formula $BCNF$
+\end_inset
+
+, כלומר קיימת תלות 
+\begin_inset Formula $X'\Rightarrow A'$
+\end_inset
+
+ ב 
+\begin_inset Formula $F$
+\end_inset
+
+ כך שאינה טרוויאלית.
+ )ממינימליות של 
+\begin_inset Formula $F$
+\end_inset
+
+ נובע שאין תלויות טרוויאליות(
+\end_layout
+
+\begin_layout Standard
+מכך ש 
+\begin_inset Formula $X'\Rightarrow A'$
+\end_inset
+
+ אינה טרוויאלית ניתן להחליף את 
+\begin_inset Formula $X\Rightarrow A$
+\end_inset
+
+ ב 
+\begin_inset Formula $X\backslash A'\cup X'\Rightarrow A$
+\end_inset
+
+ בסתירה למינימליות של 
+\begin_inset Formula $F$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+לכן 
+\begin_inset Formula $X\in BCNF$
+\end_inset
+
+ כנדרש.
+\end_layout
+
+\begin_layout Subsection*
+)ב(
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+הטענה לא נכונה, נביא דוגמה נגדית: 
+\begin_inset Formula 
+\begin{align*}
+R & =\left\{ A,B,C,D\right\} \\
+F & =\left\{ AB\Rightarrow C\right\} 
+\end{align*}
+
+\end_inset
+
+
+\series default
+ וקיימת תת סכמה 
+\series bold
+
+\begin_inset Formula $ABC$
+\end_inset
+
+
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+ב 
+\begin_inset Formula $F$
+\end_inset
+
+ יש רק תלות אחת ולכן היא מינימלית.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+נבדוק חלק מהתלויות של תת הסכמה 
+\begin_inset Formula $ABC$
+\end_inset
+
+:
+\begin_inset Formula 
+\begin{align*}
+A & \Rightarrow A\\
+B & \Rightarrow B\\
+C & \Rightarrow C\\
+AB & \Rightarrow ABC
+\end{align*}
+
+\end_inset
+
+שלשת התלויות הראשונות טריוויאליות, אך התלות האחרונה אינה טרוויאלית ואינה
+ מפתח על ולכן תת הסכמה אינה שייכת ל 
+\begin_inset Formula $BCNF$
+\end_inset
+
+.
+\end_layout
+
+\end_body
+\end_document
