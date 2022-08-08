@@ -1,0 +1,11 @@
+    region    | countrycount 
+--------------+--------------
+  europe      |            1
+ africa       |            2
+ asia         |           18
+ australasia  |            2
+ canada       |            1
+ europe       |           27
+ southamerica |            4
+(7 rows)
+

@@ -1,0 +1,11 @@
+    region    | country | totalcount 
+--------------+---------+------------
+  europe      | it      |      162.0
+ africa       | za      |       47.0
+ asia         | cn      |    20335.0
+ australasia  | au      |     6050.0
+ canada       | ca      |     9870.0
+ europe       | de      |    13897.0
+ southamerica | br      |      796.0
+(7 rows)
+
